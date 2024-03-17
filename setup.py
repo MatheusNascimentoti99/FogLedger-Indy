@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="fogLedger",
+    name="fogLedger-indy",
     version="2.1.1",
-    description='Plugin to build DLTs in Fogbed.',
-    long_description='Plugin to build DLT in Fogbed. Suport Hyperledger Indy. \
+    description='Plugin to build DLTs Indy in Fogbed.',
+    long_description='Plugin to build DLT Indy in Fogbed\
         The FogLedger is a plugin for [Fogbed](https://github.com/larsid/fogbed). It allows you to emulate a fog network with distributed ledgers. \
         Currently, FogLedger has suport for Hyperledger Indy. It is a distributed ledger, purpose-built for decentralized identity. \
         It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. \
@@ -13,7 +13,7 @@ setup(
         With FogLedger you can create a network of nodes running Hyperledger Indy. A emulation can have multiple networks of nodes running different distributed ledgers. \
         FogLedger is a plugin for Fogbed, so you can use all the features of Fogbed to emulate your fog network, such as in the Figure below.',
     keywords=['networking', 'emulator', 'protocol', 'Internet', 'dlt', 'indy', 'fog'],
-    url='https://github.com/larsid/FogLedger/tree/v2.0.0',
+    url='https://github.com/MatheusNascimentoti99/FogLedger-Indy/tree/v2.0.0',
     author='Matheus Nascimento',
     author_email='matheusnascimentoti99@gmail.com',
     classifiers = [
