@@ -30,7 +30,7 @@ from fogbed import (
     setLogLevel, FogbedDistributedExperiment
 )
 
-from fogledger.indy import (IndyBasic)
+from fogledgerIndy import (IndyBasic)
 setLogLevel('info')
 
 if (__name__ == '__main__'):

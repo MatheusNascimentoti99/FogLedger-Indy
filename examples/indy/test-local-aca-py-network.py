@@ -3,7 +3,7 @@ from fogbed import (
     FogbedExperiment, Container, VirtualInstance,
     setLogLevel,
 )
-from fogledger.indy import (IndyBasic, Node)
+from fogledgerIndy import (IndyBasic, Node)
 import time
 
 setLogLevel('info')

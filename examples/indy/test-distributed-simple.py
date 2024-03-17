@@ -5,7 +5,7 @@ from fogbed import (
 import time
 import os
 
-from fogledger.indy import (IndyBasic, Node)
+from fogledgerIndy import (IndyBasic, Node)
 setLogLevel('info')
 
 

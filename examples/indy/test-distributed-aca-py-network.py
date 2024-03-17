@@ -4,7 +4,7 @@ from fogbed import (
     setLogLevel, FogbedDistributedExperiment, Worker
 )
 
-from fogledger.indy import (IndyBasic, Node)
+from fogledgerIndy import (IndyBasic, Node)
 setLogLevel('info')
 
 
