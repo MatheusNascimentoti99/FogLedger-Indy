@@ -24,7 +24,7 @@ theme:
   language: en
 
 repo_name: larsid/fogledger-indy
-repo_url: https://github.com/MatheusNascimentoti99/FogLedger-Indy/
+repo_url: https://github.com/larsid/FogLedger-Indy/
 edit_uri: ""
 
 extra:
@@ -38,7 +38,7 @@ extra:
       link: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/MatheusNascimentoti99/FogLedger-Indy/"  target="_blank" rel="noopener">LARSID</a>
+  &copy; 2023 <a href="https://github.com/larsid/FogLedger-Indy"  target="_blank" rel="noopener">LARSID</a>
 
 markdown_extensions:
   - pymdownx.highlight:
