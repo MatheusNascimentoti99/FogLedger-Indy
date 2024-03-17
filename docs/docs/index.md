@@ -9,6 +9,6 @@ With FogLedger you can create a network of nodes running Hyperledger Indy. A emu
 
 Future work includes support for other distributed ledgers, such as Hyperledger Fabric, Hyperledger Besu, IOTA Tangle.
 
-The project code is available at [Github](https://github.com/larsid/FogLedger). 
+The project code is available at [Github](https://github.com/larsid/FogLedger-Indy). 
 
 Docker images are available at [Docker Hub](https://hub.docker.com/r/larsid).
