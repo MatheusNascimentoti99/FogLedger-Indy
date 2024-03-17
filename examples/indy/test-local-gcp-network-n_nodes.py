@@ -1,12 +1,12 @@
 from typing import List
 from fogbed import (
     Container, VirtualInstance,
-    setLogLevel, FogbedDistributedExperiment, Worker, Controller
+    setLogLevel, FogbedDistributedExperiment, Worker
 )
 import time
-import os
 
-from fogledgerIndy import (IndyBasic, Node)
+from fogledgerIndy.Node import Node
+from fogledgerIndy.IndyBasic import IndyBasic
 setLogLevel('info')
 
 

@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="fogLedger-indy",
-    version="2.1.1",
+    name="fogLedgerIndy",
+    version="1.0.0",
     description='Plugin to build DLTs Indy in Fogbed.',
     long_description='Plugin to build DLT Indy in Fogbed\
         The FogLedger is a plugin for [Fogbed](https://github.com/larsid/fogbed). It allows you to emulate a fog network with distributed ledgers. \

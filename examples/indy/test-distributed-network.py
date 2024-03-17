@@ -2,7 +2,8 @@ from typing import List
 from fogbed import (FogbedDistributedExperiment, Worker
 )
 
-from fogledgerIndy import (IndyBasic, Node)
+from fogledgerIndy.Node import Node
+from fogledgerIndy.IndyBasic import IndyBasic
 
 if (__name__ == '__main__'):
 

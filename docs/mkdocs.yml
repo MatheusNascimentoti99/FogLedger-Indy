@@ -23,8 +23,8 @@ theme:
     - content.code.copy
   language: en
 
-repo_name: larsid/fogledger
-repo_url: https://github.com/larsid/fogledger/
+repo_name: larsid/fogledger-indy
+repo_url: https://github.com/MatheusNascimentoti99/FogLedger-Indy/
 edit_uri: ""
 
 extra:
@@ -38,7 +38,7 @@ extra:
       link: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/larsid/fogledger/"  target="_blank" rel="noopener">LARSID</a>
+  &copy; 2023 <a href="https://github.com/MatheusNascimentoti99/FogLedger-Indy/"  target="_blank" rel="noopener">LARSID</a>
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -69,4 +69,3 @@ nav:
         - Distributed Emulation: 'indy/examples/test-distributed-network.md'
       - Resources:
         - Webserver: 'indy/resources/webserver.md'
-    - IOTA Tangle: 'iota/README.md'
