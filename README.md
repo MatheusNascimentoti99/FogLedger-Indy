@@ -70,7 +70,8 @@ from fogbed import (setLogLevel, FogbedDistributedExperiment)
 import time
 import os
 
-from fogledger-indy import (IndyBasic, Node)
+from fogledgerIndy.Node import Node
+from fogledgerIndy.IndyBasic import IndyBasic
 setLogLevel('info')
 
 
