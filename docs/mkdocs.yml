@@ -1,4 +1,4 @@
-site_name: FogLedger
+site_name: FogLedger Indy
 
 theme:
   name: material
@@ -60,12 +60,9 @@ markdown_extensions:
 nav:
   - Introduction: 'index.md'
   - Getting started: 'quickstart.md'
-
-  - DLTs:
-    - Hyperledger Indy:
-      - Emulation:
-        - Local Emulation: 'indy/examples/test-local-network.md'
-        - Using Webserver: 'indy/examples/test-local-webserver-network.md'
-        - Distributed Emulation: 'indy/examples/test-distributed-network.md'
-      - Resources:
-        - Webserver: 'indy/resources/webserver.md'
+  - Emulation:
+    - Local Emulation: 'indy/examples/test-local-network.md'
+    - Using Webserver: 'indy/examples/test-local-webserver-network.md'
+    - Distributed Emulation: 'indy/examples/test-distributed-network.md'
+  - Resources:
+    - Webserver: 'indy/resources/webserver.md'
