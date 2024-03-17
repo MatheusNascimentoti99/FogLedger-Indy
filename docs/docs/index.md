@@ -1,6 +1,6 @@
 # FogLedger
 
-The FogLedger is a plugin for [Fogbed](https://github.com/larsid/fogbed). It allows you to emulate a fog network with distributed ledgers.
+The FogLedger is a plugin for [Fogbed](https://github.com/larsid/FogLedger-Indy). It allows you to emulate a fog network with distributed ledgers.
 
 This FogLedger has suport for Hyperledger Indy. It's a distributed ledger, purpose-built for decentralized identity. It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity.
 
